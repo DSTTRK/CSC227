@@ -2,6 +2,7 @@
 public class PCB {
 	
     private int Id;
+	private string lol;
     private int burstTime;
     private int priority;
     private int memoryRequired;
