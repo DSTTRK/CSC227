@@ -5,6 +5,7 @@ public class PCB {
     private int burstTime;
     private int priority;
     private int memoryRequired;
+    // note
     private int waitingTime;
     private int turnaroundTime;
     private int arrivalTimeToReadyQueue;
